@@ -1,4 +1,5 @@
 # Student ID Card Project
+![Student ID Card](https://github.com/imtahirnaseer/Student-ID-Card/blob/de870441b40e9de7de33b8817e95bf6f88fa8526/Screenshot%202025-01-01%20125354.png)
 
 This project is a simple HTML and CSS implementation of a student ID card. The card includes a header, student information, an avatar, a barcode, and a validity date.
 
